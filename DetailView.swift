@@ -1,6 +1,6 @@
 //
 //  DetailView.swift
-//  Lab6Practice
+//  Top10
 //
 //  Created by Daniela Akoh on 3/25/23.
 //
